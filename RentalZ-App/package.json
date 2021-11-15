@@ -1,0 +1,27 @@
+{
+  "name": "vn.edu.greenwich.rentalz",
+  "displayName": "RentalZ",
+  "version": "1.0.0",
+  "description": "The app will allow the user to find, add and edit rental listings. The app will be called RentalZ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Chuck Norris",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^9.1.0",
+    "cordova-plugin-whitelist": "^1.3.5"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}

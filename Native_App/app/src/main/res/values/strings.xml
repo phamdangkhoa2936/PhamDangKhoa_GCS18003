@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NativeApp</string>
+
+    <string name="notification_02">Create is clicked</string>
+    <string name="logo_app"><b>RentalZ</b></string>
+
+    <string name="propertyName">Property Name</string>
+    <string name="propertyAddress">Property Address</string>
+    <string name="propertyType">Property Type</string>
+    <string name="bedroom">Number of Bedrooms</string>
+    <string name="monthlyRentPrice">Monthly Price (USD)</string>
+    <string name="furnitureType">Furniture types</string>
+    <string name="reporterName">Reporter</string>
+    <string name="btn_create">Create</string>
+</resources>
